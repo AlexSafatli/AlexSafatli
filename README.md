@@ -1,5 +1,5 @@
 ### Hey – I'm Alex Safatli. 👋
 
-I'm a software engineer.
+I'm a passionate, methodical, and thorough software engineer.
 
-I am interested in first-order logic, computer architecture, succinct data structures, and programming languages. To learn more about me, visit my [website](https://alex.safatli.com).
+I love system design, scalability, computer architecture, logic, and programming languages. To learn more about me, visit my [website](https://alex.safatli.com).
