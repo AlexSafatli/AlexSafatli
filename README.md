@@ -3,3 +3,5 @@
 I'm a passionate, methodical, and thorough software engineer.
 
 I love system design, scalability, computer architecture, logic, and programming languages. To learn more about me, visit my [website](https://alex.safatli.com).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSafatli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
